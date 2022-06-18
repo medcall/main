@@ -1,19 +1,19 @@
 #MedCall
 
-The "Medcall" is a platfrom where we provide a unique digitised solution of healthcare.
-Where These are our key focus;
-- Affortable
+The "Medcall" is a platform where we provide a unique digitized solution for healthcare.
+Where These are our key focuses;
+- Affordable
 - Patient Health Monitoring
-- Availabity of wide range of doctors
-- Open source application
+- Availability of a wide range of doctors
+- Open-source application
 - Personal data privacy 
-- Easy to use  
-- Direct connect the Doctor and Patient 
-- Unwanted Drug consumtion control
+- It's easy to use  
+- Directly connect the Doctor and Patient 
+- Unwanted Drug consumption control
 
 ## Reference :- 
 
 
 ## Links :- 
-- Website URL : https://medcall.com
-- Demo URL :- 
+- Demo URL :- 
+- Website URL(proposed) : https://medcall.com
