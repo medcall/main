@@ -1,13 +1,14 @@
 import React from "react";
 import loginImage from "../images/login_image.png";
 import "./style.css";
+import { SignInWithGoogle } from "../lib/firebase-config";
 
 const login = () => {
   return (
     <div className="container">
       <div className="body d-md-flex align-items-center justify-content-between">
         <div className="box-1 mt-md-0 mt-5">
-          <img src={loginImage} />
+          <img src={loginImage} alt="design" />
         </div>
         <div className=" box-2 d-flex flex-column h-100">
           <div className="mt-5">
@@ -18,10 +19,10 @@ const login = () => {
             </p>
             <div className="d-flex flex-column ">
               <div className="d-flex align-items-center">
-                <a href="#" className="box me-2">
+                <button onClick={SignInWithGoogle} className="box me-2">
                   <span className="fab fa-google mb-2" />
                   <p className="mb-0">Google</p>
-                </a>
+                </button>
               </div>
             </div>
           </div>

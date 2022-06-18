@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Login from "./pages/Login";
+import Home from "./pages/Home";
 import Appointment from "./pages/Appointment";
 import DoctorDash from "./pages/DoctorDash";
 import DoctorPatientVisit from "./pages/DocterPatientVisit";
@@ -8,12 +8,11 @@ import PatientDash from "./pages/PatientDash";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 function App() {
-  
   return (
     <div className="App">
       <Router>
         <Routes>
-          <Route path="/" element={<Login />} />
+          <Route path="/" element={<Home />} />
           <Route path="/appointment" element={<Appointment />} />
           <Route path="/doctor-dash" element={<DoctorDash />} />
           <Route
