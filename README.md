@@ -1,9 +1,6 @@
 <h1 align="center">Welcome to MedCall 👋</h1>
 <p align="center">
   <img src="https://img.shields.io/npm/v/readme-md-generator.svg?orange=blue" />
-<!--   <a href="https://www.npmjs.com/package/readme-md-generator">
-    <img alt="downloads" src="https://img.shields.io/npm/dm/readme-md-generator.svg?color=blue" target="_blank" />
-  </a> -->
   <a href="https://github.com/frinyvonnick/gitmoji-changelog">
     <img src="https://img.shields.io/badge/changelog-gitmoji-brightgreen.svg" alt="gitmoji-changelog">
   </a>
@@ -32,6 +29,9 @@ Make sure you have [npx](https://www.npmjs.com/package/npx) installed (`npx` is 
 
 ## Code Contributors
 
+## Platform used
+- React-JS
+- Firebase
 
 ## Financial Contributors
 
@@ -43,9 +43,12 @@ Make sure you have [npx](https://www.npmjs.com/package/npx) installed (`npx` is 
 
 
 ## 🤝 Contributing
-
+Here we are trying contribute ourself for creating better communication between doctor & patients.
 
 ## Links :- 
-- Demo URL :- 
-- Website URL(proposed) : https://medcall.com																																																
+- Demo URL :- https://localhost:3000
+- Website URL(proposed- Not active) : https://medcall.com	
+- Github URL : https://github.com/medcall/
+- Youtube URL : https://www.youtube.com/watch?v=j1Vq3xmuBao
+- LinkedIn URL : https://www.linkedin.com/in/nikhilkumarnayak,https://www.linkedin.com/in/devamsh-manoj-30074b242?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtCoGXCUnRbG50PiT1lSeIA%3D%3D																																															
 
