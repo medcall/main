@@ -32,7 +32,7 @@ Make sure you have [npx](https://www.npmjs.com/package/npx) installed (`npx` is 
 - Firebase
 
 ## Code Contributors
-<a href="https://github.com/nikhilkumarnayak"> <a href="https://github.com/itsnoa04"> <a href="https://github.com/Jaydevshoo">
+<a href="https://github.com/orgs/medcall/people"> <a href="https://github.com/nikhilkumarnayak"> <a href="https://github.com/itsnoa04"> <a href="https://github.com/Jaydevshoo">
 
 ## Financial Contributors
 
