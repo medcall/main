@@ -27,11 +27,12 @@ Where These are our key focuses;
 
 Make sure you have [npx](https://www.npmjs.com/package/npx) installed (`npx` is shipped by default since npm `5.2.0`)
 
-## Code Contributors
-
 ## Platform used
 - React-JS
 - Firebase
+
+## Code Contributors
+<a href="https://github.com/nikhilkumarnayak"> <a href="https://github.com/itsnoa04"> <a href="https://github.com/Jaydevshoo">
 
 ## Financial Contributors
 
@@ -40,7 +41,8 @@ Make sure you have [npx](https://www.npmjs.com/package/npx) installed (`npx` is 
 <a href="https://opencollective.com/readme-md-generator"><img src="https://opencollective.com/readme-md-generator/individuals.svg?width=890"></a>
 
 ### Organizations
-
+- INeuron 
+- Hackthon2.0
 
 ## 🤝 Contributing
 Here we are trying contribute ourself for creating better communication between doctor & patients.
